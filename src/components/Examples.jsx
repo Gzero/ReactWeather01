@@ -5,6 +5,7 @@ var Examples = () => {
       <div>
           <h3>Examples</h3>
           <p>My message (example)</p>
+          <p>sub module</p>
       </div>
   )
 };
